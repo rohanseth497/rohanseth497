@@ -6,9 +6,9 @@ I'm a software engineer who is passionate about open-source, creating technology
 - 🌱 I’m currently learning ReactJS along with Spring, Hibernate ecosystem
 - 👯 I would love to collaborate on Hackathons or Meetups
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I absolutely love to watch and explore on DevOps terminologies
+- ⚡ Fun fact: I absolutely love to binge watch and explore on DevOps terminologies
 
-## ⚡ Technologies
+## ⚡ Skills
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -20,6 +20,8 @@ I'm a software engineer who is passionate about open-source, creating technology
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-black?style=flat-square&logo=data)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-black?style=flat-square&logo=problem)
 
 ## Find me around the web 🌎:
 
