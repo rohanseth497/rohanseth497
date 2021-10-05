@@ -28,6 +28,6 @@ I'm a software engineer who is passionate about open-source, creating technology
 - Reach me @ <a href="mailto:rohan.seth497@gmail.com">Gmail</a> for a cup of tea ☕
 - Let's connect on <a href="https://www.linkedin.com/in/rohan-seth-093724123/">LinkedIn</a> 💼
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rohanseth497&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rohanseth497&show_icons=true&count_private=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohanseth497)
